@@ -2,11 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4f8ef7&height=200&section=header&text=Bhushan%20Deshmukh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%20%C2%B7%20%20Data%20Analyst%20%20%C2%B7%20%20GenAI%20Developer&descAlignY=58&descSize=16&descColor=b3d1ff" alt="header" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-bsdeshmukh)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsdeshmukh98@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://bhushan-30.github.io)
-[![Profile Views](https://komarev.com/ghpvc/?username=Bhushan-30&style=for-the-badge&color=4f8ef7&label=PROFILE+VIEWS)](https://github.com/Bhushan-30)
-
 </div>
 
 ---
