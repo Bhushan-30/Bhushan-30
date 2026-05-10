@@ -13,7 +13,6 @@
 
 ## 👋 About Me
 
-```
 **Name:** Bhushan Deshmukh  
 **Role:** AI/ML Engineer | Data Analyst | GenAI Developer  
 **Education:** B.Tech CSE (AI/ML Honours) · MIT Aurangabad · 2025  
@@ -22,7 +21,6 @@
 **Looking For:** Associate AI/ML Engineer | Data Analyst | GenAI roles  
 **Availability:** Pan-India · Can join within 30 days  
 **Fun Fact:** I turn raw data into decisions 📊 → 🤖 → 💡  
-```
 
 ---
 
