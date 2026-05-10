@@ -13,17 +13,15 @@
 
 ## 👋 About Me
 
-```python
-bhushan = {
-    "name"       : "Bhushan Deshmukh",
-    "role"       : ["AI/ML Engineer", "Data Analyst", "GenAI Developer"],
-    "education"  : "B.Tech CSE (AI/ML Honours) · MIT Aurangabad · 2025",
-    "location"   : "Pune, India 🇮🇳",
-    "experience" : "Jr. Data Analyst Intern @ Fusionloop Solution (6 months)",
-    "looking_for": "Associate AI/ML Engineer | Data Analyst | GenAI roles",
-    "available"  : "Pan-India · Can join within 30 days",
-    "fun_fact"   : "I turn raw data into decisions 📊 → 🤖 → 💡"
-}
+```
+**Name:** Bhushan Deshmukh  
+**Role:** AI/ML Engineer | Data Analyst | GenAI Developer  
+**Education:** B.Tech CSE (AI/ML Honours) · MIT Aurangabad · 2025  
+**Location:** Pune, India 🇮🇳  
+**Experience:** Jr. Data Analyst Intern @ Fusionloop Solution (6 months)  
+**Looking For:** Associate AI/ML Engineer | Data Analyst | GenAI roles  
+**Availability:** Pan-India · Can join within 30 days  
+**Fun Fact:** I turn raw data into decisions 📊 → 🤖 → 💡  
 ```
 
 ---
