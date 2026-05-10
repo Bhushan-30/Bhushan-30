@@ -14,7 +14,6 @@
 ## 👋 About Me
 
 ```python
-bhushan = {
     "name"       : "Bhushan Deshmukh",
     "role"       : ["AI/ML Engineer", "Data Analyst", "GenAI Developer"],
     "education"  : "B.Tech CSE (AI/ML Honours) · MIT Aurangabad · 2025",
@@ -23,7 +22,6 @@ bhushan = {
     "looking_for": "Associate AI/ML Engineer | Data Analyst | GenAI roles",
     "available"  : "Pan-India · Can join within 30 days",
     "fun_fact"   : "I turn raw data into decisions 📊 → 🤖 → 💡"
-}
 ```
 
 ---
