@@ -196,35 +196,6 @@ Clean Python-based expense tracker for managing and visualising personal finance
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bhushan-30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090e&title_color=4f8ef7&icon_color=34d9a4&text_color=b3b3cc&count_private=true" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan-30&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090e&title_color=4f8ef7&text_color=b3b3cc&langs_count=6" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bhushan-30&theme=tokyonight&hide_border=true&background=09090e&ring=4f8ef7&fire=34d9a4&currStreakLabel=4f8ef7)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🌟 Quick Numbers
-
-<div align="center">
-
-| 🚀 Production Apps | 📦 Repositories | 🧠 Domains | ⚡ Join Time |
-|:---:|:---:|:---:|:---:|
-| **5+** | **19** | **GenAI · ML · NLP · BI** | **30 days** |
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
