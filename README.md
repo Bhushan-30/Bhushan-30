@@ -71,6 +71,8 @@ Fully offline Q&A chatbot over YouTube content — no paid APIs. Custom RAG pipe
 
 **Stack:** `Python` `OpenAI Whisper` `ChromaDB` `FLAN-T5` `TinyLlama` `Streamlit`
 
+[→ View Repo](https://github.com/Bhushan-30/youtube-chatbot)
+
 </td>
 <td width="50%" valign="top">
 
